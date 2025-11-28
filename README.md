@@ -1,0 +1,2 @@
+# Minu-AI
+Tehisintellekt
